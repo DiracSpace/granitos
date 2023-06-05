@@ -26,7 +26,7 @@
     "@nestjs/platform-express": "^9.0.0",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.2.0",
-    "taze": "^0.9.1"
+    "taze": "^0.10.2"
   },
   "devDependencies": {
     "@nestjs/cli": "^9.0.0",
